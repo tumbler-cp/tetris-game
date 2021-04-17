@@ -1,0 +1,19 @@
+﻿  main.cpp
+E:\projects\SFMLTetris-main\main.cpp(255,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\projects\SFMLTetris-main\main.cpp(255,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\projects\SFMLTetris-main\main.cpp(296,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\projects\SFMLTetris-main\main.cpp(426,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\projects\SFMLTetris-main\main.cpp(426,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\projects\SFMLTetris-main\main.cpp(481,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\projects\SFMLTetris-main\main.cpp(481,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\projects\SFMLTetris-main\main.cpp(499,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\projects\SFMLTetris-main\main.cpp(499,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\projects\SFMLTetris-main\main.cpp(506,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\projects\SFMLTetris-main\main.cpp(506,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\projects\SFMLTetris-main\main.cpp(545,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\projects\SFMLTetris-main\main.cpp(545,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\projects\SFMLTetris-main\main.cpp(552,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\projects\SFMLTetris-main\main.cpp(552,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\projects\SFMLTetris-main\main.cpp(560,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\projects\SFMLTetris-main\main.cpp(560,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  SFML_Tutorial.vcxproj -> E:\projects\SFMLTetris-main\x64\Debug\SFML_Tutorial.exe

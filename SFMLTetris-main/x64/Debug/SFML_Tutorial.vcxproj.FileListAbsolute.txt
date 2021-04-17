@@ -1,0 +1,2 @@
+E:\projects\SFMLTetris-main\x64\Debug\SFML_Tutorial.exe
+E:\projects\SFMLTetris-main\x64\Debug\SFML_Tutorial.pdb
